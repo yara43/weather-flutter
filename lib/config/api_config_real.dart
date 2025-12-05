@@ -1,7 +1,8 @@
-class ApiConfigReal {
+class ApiConfig {
   static const String openWeatherBaseUrl =
       'https://api.openweathermap.org/data/2.5';
 
-  // Placeholder (dummy) key
-  static const String openWeatherApiKey = "DUMMY_KEY";
+  // IMPORTANT: this is a placeholder for GitHub
+  static const String openWeatherApiKey =
+      'REPLACE_WITH_YOUR_API_KEY';
 }
